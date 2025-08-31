@@ -1,0 +1,12 @@
+﻿@page
+@model MySimpleWebPageApp.Pages.AboutModel
+@{
+    ViewData["Title"] = "About";
+}
+
+<div class="text-center">
+    <h1 class="display-4">About Our App</h1>
+    <p>This is a simple web app deployed via Azure DevOps!</p>
+    <p>Build Number: @ViewData["BuildNumber"]</p>
+    <p>Deployment Time: @DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")</p>
+</div>

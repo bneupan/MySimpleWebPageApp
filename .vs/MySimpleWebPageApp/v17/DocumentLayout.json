@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|c:\\users\\bisha\\source\\repos\\testdotnet\\mysimplewebpageapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|c:\\users\\bisha\\source\\repos\\testdotnet\\mysimplewebpageapp\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|solutionrelative:pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|c:\\users\\bisha\\source\\repos\\testdotnet\\mysimplewebpageapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|c:\\users\\bisha\\source\\repos\\testdotnet\\mysimplewebpageapp\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08FA081-373E-41F0-A412-A5E8B86DE441}|MySimpleWebPageApp.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T15:48:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\About.cshtml",
+              "RelativeToolTip": "Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T14:40:53.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T14:20:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\About.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml.cs",
+              "ToolTip": "C:\\Users\\bisha\\source\\repos\\testdotnet\\MySimpleWebPageApp\\Pages\\About.cshtml.cs",
+              "RelativeToolTip": "Pages\\About.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:20:06.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
